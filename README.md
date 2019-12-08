@@ -3,6 +3,8 @@
 
 * Deep learning model to classify sneakers of adidas, nike and puma.
 
+* Project Notebook [**Link**](https://github.com/shadab4150/SneakerNet/blob/master/SneakersNet.ipynb)
+
 * Hosted here [**Link**](https://sneakernet-v1.onrender.com/)
 
 * It was trained using 400 images of sneakers of adidas , nike and puma downloaded from google images.
