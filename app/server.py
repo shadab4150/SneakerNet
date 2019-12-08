@@ -9,10 +9,10 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1-Mq2yIXQpk9Jd_l0c6v516Yll83SQ2Fd'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1VdXHTkST0RgzR9uGC4OyMjJiulrYtH4G'
 export_file_name = 'export.pkl'
 
-classes = ['oak_wood','pine_wood','rosewood_wood','mahogany_wood','walnut_wood']
+classes = ['adidas','nike','puma']
 path = Path(__file__).parent
 
 app = Starlette()
