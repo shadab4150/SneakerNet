@@ -27,3 +27,9 @@
 * Model website [**Link**](https://sneakernet-v1.onrender.com/)
 
 <center><img src='https://i.ibb.co/Cwb1ZTL/12131dsdsfsfsf.jpg'></center>
+
+### Great Thanks to:
+----------------------------------------------------------------------------------
+* Jeremy Howard
+* Fast.ai and pyTorch for there Deep learning Libraries
+* And Google colab for providing the free GPUs to train the model.
