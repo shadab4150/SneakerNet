@@ -1,4 +1,4 @@
-# SneakerNet V1
+<center><h1> SneakerNet V1</h1></center>
 <center><img src='https://i.ibb.co/0f6Hnz5/logo.jpg'></center>
 
 * Deep learning model to classify sneakers of adidas, nike and puma.
@@ -7,19 +7,20 @@
 
 * It was trained using 400 images of sneakers of adidas , nike and puma downloaded from google images.
 
-* Image downloaded
+* **Image downloaded**
 
 ![kd](https://i.ibb.co/JpfncfY/shoe34533636.jpg)
 
 * **Prediction of Sneakers.**
 
-![kd](https://i.ibb.co/644SS95/qwq1212.jpg)
+<center><img src='https://i.ibb.co/644SS95/qwq1212.jpg'></center>
 
-![kd](https://i.ibb.co/vBfVBhw/asasas.jpg)
+<center><img src='https://i.ibb.co/vBfVBhw/asasas.jpg'></center>
 
-![kd](https://i.ibb.co/0sVcjfb/avdafaac.jpg)
+<center><img src='https://i.ibb.co/0sVcjfb/avdafaac.jpg'></center>
 
-## Model is deployed at below website.
+
+<center><h2> Model is deployed at below website.</h2></center>
 
 * Model website [**Link**](https://sneakernet-v1.onrender.com/)
 
