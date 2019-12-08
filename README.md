@@ -23,4 +23,4 @@
 
 * Model website [**Link**](https://sneakernet-v1.onrender.com/)
 
-<center><img src='https://sneakernet-v1.onrender.com/'></center>
+<center><img src='https://i.ibb.co/Cwb1ZTL/12131dsdsfsfsf.jpg'></center>
