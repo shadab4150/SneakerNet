@@ -26,7 +26,7 @@
 
 <center><h2> Model is deployed at below website.</h2></center>
 
-* Model website [**Link**](https://sneakernet-v1.onrender.com/)
+* Model website [**Link**](https://shadab-sneakernet-v2.onrender.com)
 
 <center><img src='https://i.ibb.co/Cwb1ZTL/12131dsdsfsfsf.jpg'></center>
 
